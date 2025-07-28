@@ -1,0 +1,15 @@
+.vscode/
+*.log
+*.tmp
+node_modules/
+https://github.com/anis-mselmi/examen-2.git
+echo "# examen-2" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/anis-mselmi/examen-2.git
+git push -u origin main
+git remote add origin https://github.com/anis-mselmi/examen-2.git
+git branch -M main
+git push -u origin main
